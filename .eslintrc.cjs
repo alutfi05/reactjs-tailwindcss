@@ -17,4 +17,5 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
-}
+  validation: ['eslint-disable-next-line react/prop-types'],
+};
